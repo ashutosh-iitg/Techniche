@@ -3,7 +3,7 @@
 <li>Python 3.x</li>
 <li>pandas</li>
 <li>validate_email</li></ul>
-<h4>Usage : </h4> *python3 mail.py*
+<h4>Usage : </h4> <i>python3 mail.py</i>
 
 <h4>Keep the header for the email column in csv as email.</h2>
 <h4>Use html tags for punctuation in body text file. See "text.txt" for example.</h4>
