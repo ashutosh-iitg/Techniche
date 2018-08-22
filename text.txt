@@ -1,0 +1,29 @@
+<h3>Dear participant,
+<br>
+
+
+This mail is in reference to your registration in Codejunk, an online coding competition organized by Techniche 2018, the annual techno-management festival of IIT Guwahati. 
+<br>
+
+The competition is scheduled for 12th of August 2018 i.e. Sunday from 6 pm to 8 pm on the Hackerank website.
+<br>
+
+The link to the competition is: https://www.hackerrank.com/codejunk
+<br>
+Go to this link and Signup for the event. [Ignore this email if you have already registered]
+
+<br>
+
+In case of any doubts or suggestions please mail us on 
+techolympics@techniche.org
+<br>
+
+
+You can also contact : 
+Vishwas Mishra: <a>9554872382</a><br>
+Aniket Ramteke: <a>8551946002</a><br>
+
+<br><br>
+
+Regards,<br>
+Team Techniche</h3>
