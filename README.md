@@ -4,4 +4,5 @@
 <li>pandas</li>
 <li>validate_email</li></ul>
 
-<h2>Keep the header for the email column in csv as email.</h2>
+<h4>Keep the header for the email column in csv as email.</h2>
+<h4>Use html tags for punctuation in body text file. See sample body file for example.</h4>
