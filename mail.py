@@ -1,8 +1,8 @@
 import pandas as pd
-from validate_email import validate_email
 import requests
 import json
 from enum import Enum
+from validate_email import validate_email
 
 
 class ApiClient:
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     for i in range(n):
         if validate_email(mail_id[i]) is True:
             Send(subject, sender, "Techniche, IIT Guwahati", mail_id[i], body, "Text Body", True)
-            #print(mail_id[i])
+            print("Mail sent to ",mail_id[i])
         else:
             print("Could not send to '", mail_id[i], "'. Invalid email address.")
     fo.close()
