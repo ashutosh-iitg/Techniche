@@ -7,7 +7,7 @@ from enum import Enum
 
 class ApiClient:
 	apiUri = 'https://api.elasticemail.com/v2'
-	apiKey = '01f87352-d942-4d6f-83f3-8201cbdae2b9'
+	apiKey = 'your_api_key' #Add your elastic account api key
 
 	def Request(method, url, data):
 		data['apikey'] = ApiClient.apiKey
@@ -62,8 +62,3 @@ if __name__ == "__main__":
         else:
             print("Could not send to '", mail_id[i], "'. Invalid email address.")
     fo.close()
-
-
-	#print(Send("Your Subject", "info@techniche.org", "Techniche, IIT Guwahati", "ashutoshk167@gmail.com", "<h1>Hey Ashutosh</h1>", "Text Body", True))
-
-
